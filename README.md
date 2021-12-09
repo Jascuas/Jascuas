@@ -10,15 +10,16 @@ I usually use relational databases but recentlly i been using no-sql databases a
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jascuas) 
  
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jascuas&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jascuas&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jascuas&show_icons=true)  
 
+<a href="https://github.com/Jascuas/Tokenization">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jascuas&repo=Tokenization" />
+</a>
 <a href="https://github.com/Jascuas/ReactNativeGuide">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jascuas&repo=ReactNativeGuide" />
 </a>
-<a href="https://github.com/Jascuas/ReduxPractice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jascuas&repo=ReduxPractice" />
-</a>
+
 
 
